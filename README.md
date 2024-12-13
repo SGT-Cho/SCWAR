@@ -105,5 +105,3 @@ pip install numpy
 1. Google Speech Commands 데이터셋 ([https://arxiv.org/abs/1804.03209](https://arxiv.org/abs/1804.03209))
 2. GMM-HMM 관련 문서 ([https://wikidocs.net/223858](https://wikidocs.net/223858))
 ```
-
-텍스트를 복사한 후 `README.md` 파일로 저장하시면 됩니다. 추가적인 도움이 필요하시면 알려주세요!
